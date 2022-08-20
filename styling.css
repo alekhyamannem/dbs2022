@@ -191,7 +191,9 @@ ul {
 }
 
 #contact{
-    border: 4px solid rgb(245, 63, 93);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 4px solid burlywood;
     background: linear-gradient(burlywood,burlywood);
     background: -webkit-linear-gradient(burlywood,burlywood);
     background: -o-linear-gradient(burlywood,burlywood);
